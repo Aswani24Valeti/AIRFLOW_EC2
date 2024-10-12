@@ -64,6 +64,9 @@ CREATE DATABASE airflow;
 CREATE USER airflow WITH PASSWORD 'airflow';
 GRANT ALL PRIVILEGES ON DATABASE airflow TO airflow;
 Exit the PostgreSQL shell by pressing Ctrl + D.
+Give ls it display version of posytgres
+Exit from prostgres press Ctrl + D. 
+Give ls it display airflow env
 step 15:
 Navigate to the Airflow directory:
 
